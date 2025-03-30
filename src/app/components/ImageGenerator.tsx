@@ -97,7 +97,7 @@ export default function ImageGenerator() {
 
       <div className="space-y-4">
         <div className="text-sm text-gray-600">
-          提示：描述角色的外观、表情、姿势、服装和背景等细节
+          提示詞：描述角色的外觀、表情、姿勢、服裝和背景等細節
         </div>
         <div className="flex gap-4">
           <input
